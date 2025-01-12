@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Hey there! 
 #  Welcome to my corner of GitHub where data meets creativity! 🎉  
 
 I’m **Salvin Dsouza**, your friendly neighborhood **Data Analyst** with **4 years of experience** turning data chaos into meaningful stories. Here’s what I’ve been up to:  
