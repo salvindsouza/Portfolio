@@ -25,6 +25,6 @@ Dive in and explore! From scalable pipelines to dashboards that actually make se
 
 
 ### 🤫 Sharing my Secret Sauce to build simple yet effecient scalable data Pipelines 
-<img src="/images/docker.gif" alt="Shopify to Snowflake Pipeline" width="100" />          <img src="/images/kubernetes.gif" alt="Shopify to Snowflake Pipeline" width="100" />          <img style="text-align: center;" src="/images/airflow.gif" alt="Shopify to Snowflake Pipeline" width="150" />         <img style="text-align: center;" src="/images/dbt.png" alt="Shopify to Snowflake Pipeline" width="150" />
+<img src="https://github.com/salvindsouza/Portfolio/blob/master/images/docker.gif" alt="Shopify to Snowflake Pipeline" width="100" />          <img src="/images/kubernetes.gif" alt="Shopify to Snowflake Pipeline" width="100" />          <img style="text-align: center;" src="/images/airflow.gif" alt="Shopify to Snowflake Pipeline" width="150" />         <img style="text-align: center;" src="/images/dbt.png" alt="Shopify to Snowflake Pipeline" width="150" />
 
 # 🚧 Pardon the dust! This website is still baking in the oven. Masterpieces take time, right 🤨?
