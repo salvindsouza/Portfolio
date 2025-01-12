@@ -26,4 +26,6 @@ Dive in and explore! From scalable pipelines to dashboards that actually make se
 ### 🤫 Sharing my Secret Sauce to build simple yet effecient scalable data Pipelines 
 <img src="https://github.com/salvindsouza/Portfolio/blob/master/images/docker.gif?raw=true" alt="Docker Image" width="100" />          <img src="https://github.com/salvindsouza/Portfolio/blob/master/images/kubernetes.gif?raw=true" alt="Kubernetes" width="100" />          <img style="text-align: center;" src="https://github.com/salvindsouza/Portfolio/blob/master/images/airflow.gif?raw=true" alt="Airflow" width="150" />         <img style="text-align: center;" src="https://github.com/salvindsouza/Portfolio/blob/master/images/dbt.png?raw=true" alt="Dbt" width="150" />
 
-# 🚧 Pardon the dust! This website is still baking in the oven.
+
+
+# 🚧 Pardon the dust! This website is still baking in the oven. Fresh content coming soon!
