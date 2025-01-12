@@ -28,4 +28,4 @@ Dive in and explore! From scalable pipelines to dashboards that actually make se
 
 
 
-# 🚧 Pardon the dust! This website is still baking in the oven. Fresh content coming soon!
+# 🚧 Pardon the dust! This website is still baking in the oven.Fresh content coming soon!
